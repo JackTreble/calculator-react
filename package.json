@@ -1,6 +1,6 @@
 {
   "name": "calculator-react",
-  "homepage": "http://jacktreble.github.io/calculator",
+  "homepage": "http://jacktreble.github.io/calculator-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
