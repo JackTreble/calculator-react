@@ -5,7 +5,7 @@ import {BrowserRouter as Router, Link, Route, Switch, useParams} from "react-rou
 
 export default function App() {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <div>
                 <nav>
                     <ul>
